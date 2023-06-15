@@ -14,11 +14,11 @@ Discover the future of laundry services with **Smart Rinse**, a product designed
 
 ###
 
-<h3 align="left">⭐  Our Team</h3>
+<h3 align="left">⭐  Our Team Members</h3>
 
 ###
 
-| ID              | Name                          | Section             |
+| ID              | Name                          | Learning Path       |
 |:----------------|:------------------------------|:--------------------|
 | `M346DSX3745`   | Ramadhana Noor Salassa Wandya | Machine Learning    |
 | `M149DSX2850`   | Michael Adrian Winarlie       | Machine Learning    |
@@ -29,6 +29,21 @@ Discover the future of laundry services with **Smart Rinse**, a product designed
 
 
 ###
+
+<h3 align="left">📑 Our Repository</h3>
+
+###
+
+
+| Learning Path      | Repository Name                          | Repository  Link                                                         |
+|:-------------------|:-----------------------------------------|:-------------------------------------------------------------------------|
+| Machine Learning   | Data Scrapper                            | **[Follow Link](https://github.com/smart-rinse/data-scrapper)**          |
+| Cloud Computing    | API Smart Rinse                          | **[Follow Link](https://github.com/smart-rinse/api-smartrinse)**         |
+| Mobile Development | Smart Rinse (for User)                   | **[Follow Link](https://github.com/smart-rinse/smart-rinse-app)**        |
+| Mobile Development | Smart Rinse Merchant (for Owner Laundry) | **[Follow Link](https://github.com/smart-rinse/smart-rinse-merchant)**   |
+
+
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
