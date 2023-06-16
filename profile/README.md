@@ -37,7 +37,7 @@ Discover the future of laundry services with **Smart Rinse**, a product designed
 
 | Learning Path      | Repository Name                          | Repository  Link                                                         |
 |:-------------------|:-----------------------------------------|:-------------------------------------------------------------------------|
-| Machine Learning   | Data Scrapper                            | **[Follow Link](https://github.com/smart-rinse/data-scrapper)**          |
+| Machine Learning   | Machine Learning                            | **[Follow Link](https://github.com/smart-rinse/Machine-Learning)**          |
 | Cloud Computing    | API Smart Rinse                          | **[Follow Link](https://github.com/smart-rinse/api-smartrinse)**         |
 | Mobile Development | Smart Rinse (for User)                   | **[Follow Link](https://github.com/smart-rinse/smart-rinse-app)**        |
 | Mobile Development | Smart Rinse Merchant (for Owner Laundry) | **[Follow Link](https://github.com/smart-rinse/smart-rinse-merchant)**   |
